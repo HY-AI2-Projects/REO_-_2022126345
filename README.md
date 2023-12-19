@@ -15,5 +15,3 @@ Deep Feature Flow can easily make use of sparsely annotated video recognition da
 
 <img width="636" alt="image" src="https://github.com/HY-AI2-Projects/REO/assets/62403440/7e57d46e-f3c9-4b3c-8a19-392d89096180">
 
-
-Demo Video on YouTube Demo Video on YouTube
