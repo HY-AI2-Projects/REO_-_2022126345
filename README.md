@@ -4,7 +4,9 @@ REO(Resource efficient object detection) is initially described in a 2023 paper.
 
 
 The result is the following : 
+
 <img width="454" alt="image" src="https://github.com/HY-AI2-Projects/REO/assets/62403440/81f7dd4e-9848-44ca-abf5-147ea3f9153e">
+
 <img width="398" alt="image" src="https://github.com/HY-AI2-Projects/REO/assets/62403440/419d62b2-8feb-46e6-b199-c0506a0d4342">
 
 REO significantly speeds up video recognition by applying the heavy-weight image recognition network (e.g., ResNet-101) on sparse key frames, and propagating the recognition outputs (feature maps) to the other frames by the light-weight flow network (e.g., Shallow Ver. ResNet-101).
